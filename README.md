@@ -1,2 +1,6 @@
 # Art-icons
-Modern icon theme
+Flat Design icon theme
+
+# Preview
+
+

@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="64"
+   height="64"
+   viewBox="0 0 16.933333 16.933334"
+   version="1.1"
+   id="svg5"
+   inkscape:version="1.1.2 (0a00cf5339, 2022-02-04, custom)"
+   sodipodi:docname="system-reboot.svg"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview7"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:document-units="px"
+     showgrid="false"
+     units="px"
+     height="64px"
+     inkscape:zoom="12.546875"
+     inkscape:cx="32"
+     inkscape:cy="32"
+     inkscape:window-width="1920"
+     inkscape:window-height="1021"
+     inkscape:window-x="0"
+     inkscape:window-y="0"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="svg5" />
+  <defs
+     id="defs2" />
+  <circle
+     style="opacity:1;fill:#56ca5b;fill-opacity:1;stroke-width:0.511861;stroke-linejoin:round"
+     id="path24384"
+     cx="8.4666672"
+     cy="8.4666672"
+     r="7.2760415" />
+  <path
+     id="path7088"
+     style="opacity:0.3;fill:#1c2c38;fill-opacity:1;stroke-width:2;stroke-linejoin:round"
+     d="M 32 4 A 28 28 0 0 0 4 32 A 28 28 0 0 0 32 60 A 28 28 0 0 0 60 32 A 28 28 0 0 0 32 4 z M 32 5 A 27 27 0 0 1 59 32 A 27 27 0 0 1 32 59 A 27 27 0 0 1 5 32 A 27 27 0 0 1 32 5 z "
+     transform="scale(0.26458334)" />
+  <path
+     id="rect1397"
+     style="opacity:1;fill:#ffffff;fill-opacity:1;stroke-width:0.999999"
+     d="m 32,14 c -9.941126,-10e-7 -18.000001,8.058874 -18,18 -10e-7,9.941126 8.058874,18.000001 18,18 9.941126,10e-7 18.000001,-8.058874 18,-18 H 46 C 46,39.731986 39.731986,46 32,46 24.268014,46 18,39.731986 18,32 18,24.268014 24.268014,18 32,18 v 4 l 6,-6 -6,-6 z"
+     transform="scale(0.26458334)"
+     sodipodi:nodetypes="cssccssccccc" />
+</svg>
