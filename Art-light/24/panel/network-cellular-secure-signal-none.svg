@@ -2,9 +2,9 @@
 <!-- Created with Inkscape (http://www.inkscape.org/) -->
 
 <svg
-   width="16"
-   height="16"
-   viewBox="0 0 4.2333332 4.2333335"
+   width="24"
+   height="24"
+   viewBox="0 0 6.3499998 6.3500002"
    version="1.1"
    id="svg5"
    inkscape:version="1.1.2 (0a00cf5339, 2022-02-04, custom)"
@@ -27,21 +27,22 @@
      showguides="false"
      inkscape:zoom="12.546875"
      inkscape:cx="-0.23910336"
-     inkscape:cy="2.8692403"
+     inkscape:cy="2.8293898"
      inkscape:window-width="1920"
-     inkscape:window-height="1020"
+     inkscape:window-height="1019"
      inkscape:window-x="0"
-     inkscape:window-y="0"
+     inkscape:window-y="31"
      inkscape:window-maximized="1"
-     inkscape:current-layer="g822" />
+     inkscape:current-layer="svg5" />
   <defs
      id="defs2" />
   <g
      id="g822"
-     style="fill:#5d656b;fill-opacity:1">
+     style="fill:#5d656b;fill-opacity:1"
+     transform="translate(1.0583333,1.0583333)">
     <path
        id="path1146"
-       style="color:#000000;fill:#5d656b;fill-opacity:1;stroke:none;stroke-width:3.77953;-inkscape-stroke:none;opacity:0.4"
+       style="color:#000000;opacity:0.4;fill:#5d656b;fill-opacity:1;stroke:none;stroke-width:3.77953;-inkscape-stroke:none"
        d="M 16,0 0,16 H 9 V 15 H 2.5 L 15,2.5 V 8 h 1 z"
        transform="scale(0.26458333)" />
     <path

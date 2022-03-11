@@ -2,9 +2,9 @@
 <!-- Created with Inkscape (http://www.inkscape.org/) -->
 
 <svg
-   width="16"
-   height="16"
-   viewBox="0 0 4.2333332 4.2333335"
+   width="24"
+   height="24"
+   viewBox="0 0 6.3499998 6.3500002"
    version="1.1"
    id="svg5"
    inkscape:version="1.1.2 (0a00cf5339, 2022-02-04, custom)"
@@ -25,13 +25,13 @@
      showgrid="false"
      units="px"
      showguides="false"
-     inkscape:zoom="50.125"
-     inkscape:cx="8"
-     inkscape:cy="8"
+     inkscape:zoom="25.0625"
+     inkscape:cx="6.2244389"
+     inkscape:cy="6.2044888"
      inkscape:window-width="1920"
-     inkscape:window-height="1020"
+     inkscape:window-height="1019"
      inkscape:window-x="0"
-     inkscape:window-y="0"
+     inkscape:window-y="31"
      inkscape:window-maximized="1"
      inkscape:current-layer="g2412" />
   <defs
@@ -41,12 +41,11 @@
      style="fill:#5d656b;fill-opacity:1">
     <path
        id="path1144"
-       style="color:#000000;opacity:0.15;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.626086;-inkscape-stroke:none"
-       d="m 14,5 -1,1 h 1 z m -1,1 -1,1 h 1 z m 0,1 v 1 h 1 V 7 Z m 0,1 h -1 v 1 h 1 z m 0,1 v 1 h 1 V 9 Z m 0,1 h -1 v 1 h 1 z m 0,1 v 1 h 1 v -1 z m 0,1 h -1 v 1 h 1 z m 0,1 v 1 h 1 v -1 z m -1,0 h -1 v 1 h 1 z m -1,0 v -1 h -1 v 1 z m -1,0 H 9 v 1 h 1 z M 9,13 V 12 H 8 v 1 z M 8,13 H 7 v 1 h 1 z m -1,0 v -1 l -1,1 z m -1,0 -1,1 h 1 z m 1,-1 h 1 v -1 z m 1,-1 h 1 v -1 z m 1,-1 h 1 V 9 Z m 1,-1 h 1 V 8 Z m 1,-1 h 1 V 7 Z m 0,1 v 1 h 1 V 9 Z m 0,1 h -1 v 1 h 1 z m 0,1 v 1 h 1 v -1 z m -1,0 H 9 v 1 h 1 z"
-       transform="scale(0.26458333)" />
+       style="color:#000000;opacity:0.15;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.165652;-inkscape-stroke:none"
+       d="M 4.7625,2.38125 4.4979167,2.6458333 H 4.7625 Z M 4.4979167,2.6458333 4.2333334,2.9104167 h 0.2645833 z m 0,0.2645834 V 3.175 H 4.7625 V 2.9104167 Z m 0,0.2645833 H 4.2333334 v 0.2645833 h 0.2645833 z m 0,0.2645833 V 3.7041667 H 4.7625 V 3.4395833 Z m 0,0.2645834 H 4.2333334 V 3.96875 h 0.2645833 z m 0,0.2645833 V 4.2333333 H 4.7625 V 3.96875 Z m 0,0.2645833 H 4.2333334 v 0.2645834 h 0.2645833 z m 0,0.2645834 V 4.7625 H 4.7625 V 4.4979167 Z m -0.2645833,0 H 3.96875 V 4.7625 h 0.2645834 z m -0.2645834,0 V 4.2333333 H 3.7041667 v 0.2645834 z m -0.2645833,0 H 3.4395834 V 4.7625 h 0.2645833 z m -0.2645833,0 V 4.2333333 H 3.175 v 0.2645834 z m -0.2645834,0 H 2.9104167 V 4.7625 H 3.175 Z m -0.2645833,0 V 4.2333333 L 2.6458334,4.4979167 Z m -0.2645833,0 L 2.3812501,4.7625 H 2.6458334 Z M 2.9104167,4.2333333 H 3.175 V 3.96875 Z M 3.175,3.96875 H 3.4395834 V 3.7041667 Z M 3.4395834,3.7041667 H 3.7041667 V 3.4395833 Z M 3.7041667,3.4395833 H 3.96875 V 3.175 Z M 3.96875,3.175 H 4.2333334 V 2.9104167 Z m 0,0.2645833 V 3.7041667 H 4.2333334 V 3.4395833 Z m 0,0.2645834 H 3.7041667 V 3.96875 H 3.96875 Z m 0,0.2645833 V 4.2333333 H 4.2333334 V 3.96875 Z m -0.2645833,0 H 3.4395834 v 0.2645833 h 0.2645833 z" />
     <path
        style="color:#000000;fill:#5d656b;fill-opacity:1;stroke:none;-inkscape-stroke:none"
-       d="M 4.2333333,3.0296875e-7 3.296875e-8,4.2333333 H 4.2333333 Z M 3.96875,0.66145803 V 3.96875 H 0.6614583 Z"
+       d="M 5.2916667,1.0583336 1.0583334,5.2916667 H 5.2916667 Z M 5.0270834,1.7197914 v 3.307292 H 1.7197917 Z"
        id="path1146"
        sodipodi:nodetypes="cccccccc" />
   </g>

@@ -1,9 +1,53 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="22" height="22" version="1.1">
- <defs>
-  <style id="current-color-scheme" type="text/css">
-   .ColorScheme-Text { color:#d3dae3; } .ColorScheme-Highlight { color:#5294e2; }
-  </style>
- </defs>
-<path style="fill:currentColor" class="ColorScheme-Text" d="M16.5 3c-.277 0-.5.222-.5.5V13h2V3.5c0-.278-.223-.5-.5-.5h-1zm-3 3c-.277 0-.5.222-.5.5V13h2V6.5c0-.278-.223-.5-.5-.5h-1zm-3 3c-.277 0-.5.222-.5.5v8c0 .276.223.5.5.5h1c.277 0 .5-.224.5-.5v-8c0-.278-.223-.5-.5-.5h-1zm-3 3c-.277 0-.5.222-.5.5v5c0 .276.223.5.5.5h1c.277 0 .5-.224.5-.5v-5c0-.278-.223-.5-.5-.5h-1zm-3 3c-.277 0-.5.222-.5.5v2c0 .276.223.5.5.5h1c.277 0 .5-.224.5-.5v-2c0-.278-.223-.5-.5-.5h-1z" opacity=".35"/>
-<path style="fill:currentColor" class="ColorScheme-Text" d="M14 14v1c0 .276.1.538.281.719l.781.781-.78.781A1.015 1.015 0 0 0 14 18v1h1c.276 0 .538-.1.719-.281l.781-.782.781.782c.181.18.443.281.719.281h1v-1c0-.276-.1-.538-.281-.719l-.782-.781.782-.781c.18-.181.281-.443.281-.719v-1h-1c-.276 0-.538.1-.719.281l-.781.781s-.473-.58-.781-.78C15.503 14.14 15.276 14 15 14z"/>
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="22"
+   height="22"
+   viewBox="0 0 5.8208331 5.8208335"
+   version="1.1"
+   id="svg5"
+   inkscape:version="1.1.2 (0a00cf5339, 2022-02-04, custom)"
+   sodipodi:docname="network-cellular-signal-offline.svg"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview7"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:document-units="px"
+     showgrid="false"
+     units="px"
+     showguides="false"
+     inkscape:zoom="12.546875"
+     inkscape:cx="6.0572852"
+     inkscape:cy="6.4956413"
+     inkscape:window-width="1920"
+     inkscape:window-height="1019"
+     inkscape:window-x="0"
+     inkscape:window-y="31"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="svg5" />
+  <defs
+     id="defs2" />
+  <g
+     id="g1034"
+     style="fill:#5d656b;fill-opacity:1"
+     transform="translate(0.79375,0.79375)">
+    <path
+       id="path1146"
+       style="color:#000000;opacity:0.4;fill:#5d656b;fill-opacity:1;stroke:none;stroke-width:3.77953;-inkscape-stroke:none"
+       d="M 16,0 0,16 H 9 V 15 H 2.5 L 15,2.5 V 9 h 1 z"
+       transform="scale(0.26458333)" />
+    <path
+       id="rect843"
+       style="fill:#5d656b;fill-opacity:1;stroke-width:0.264583"
+       d="m 2.7365854,2.9237126 0.561266,0.561266 -0.561266,0.561266 0.1870887,0.1870887 0.561266,-0.561266 0.561266,0.561266 L 4.2332948,4.0462446 3.6720288,3.4849786 4.2332948,2.9237126 4.0462061,2.736624 3.4849401,3.29789 2.9236741,2.736624 Z" />
+  </g>
 </svg>
