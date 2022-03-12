@@ -1,6 +1,6 @@
 [Icon Theme]
 Name=Art (Dark)
-Inherit=Breeze,hicolor
+Inherits=Papirus,Breeze,hicolor
 Comment=Art icon theme
 
 Example=folder
