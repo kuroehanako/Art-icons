@@ -1,6 +1,6 @@
 [Icon Theme]
 Name=Art Nord
-Inherits=Papirus,Breeze,hicolor
+Inherits=Art,Papirus,Breeze,hicolor
 Comment=Art icon theme
 
 Example=folder
