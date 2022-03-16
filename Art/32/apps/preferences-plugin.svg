@@ -8,7 +8,7 @@
    version="1.1"
    id="svg5"
    inkscape:version="1.1.2 (0a00cf5339, 2022-02-04, custom)"
-   sodipodi:docname="preferences-plugin.svg"
+   sodipodi:docname="cs-extensions.svg"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns="http://www.w3.org/2000/svg"
@@ -25,9 +25,9 @@
      showgrid="false"
      units="px"
      height="64px"
-     inkscape:zoom="26.3125"
-     inkscape:cx="15.980998"
-     inkscape:cy="16"
+     inkscape:zoom="18.605747"
+     inkscape:cx="12.388645"
+     inkscape:cy="18.300797"
      inkscape:window-width="1920"
      inkscape:window-height="1019"
      inkscape:window-x="0"
@@ -38,7 +38,7 @@
   <defs
      id="defs2" />
   <rect
-     style="opacity:0.35;fill:#555761;fill-opacity:0.62352943;stroke-width:0.529167;stroke-linecap:round;stroke-linejoin:round"
+     style="opacity:0.35;fill:#555761;fill-opacity:1;stroke-width:0.529167;stroke-linecap:round;stroke-linejoin:round"
      id="rect967"
      width="7.4083333"
      height="7.4083333"

@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="16"
+   height="16"
+   viewBox="0 0 4.2333332 4.2333335"
+   version="1.1"
+   id="svg841"
+   inkscape:version="1.1.2 (0a00cf5339, 2022-02-04, custom)"
+   sodipodi:docname="weather-clear.svg"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview843"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:document-units="px"
+     showgrid="false"
+     units="px"
+     showguides="false"
+     inkscape:zoom="24.96875"
+     inkscape:cx="6.4680851"
+     inkscape:cy="10.112641"
+     inkscape:window-width="1920"
+     inkscape:window-height="1019"
+     inkscape:window-x="0"
+     inkscape:window-y="31"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="svg841" />
+  <defs
+     id="defs838" />
+  <path
+     id="path924"
+     style="fill:#ffca28;fill-opacity:1;stroke-width:0.916664;stroke-linecap:round;stroke-linejoin:round"
+     d="M 7 0 L 7 1 L 8 1 L 8 0 L 7 0 z M 2 2 L 2 3 L 3 3 L 3 2 L 2 2 z M 7.5 2 A 5.4999999 5.4999999 0 0 0 2 7.5 A 5.4999999 5.4999999 0 0 0 7.5 13 A 5.4999999 5.4999999 0 0 0 13 7.5 A 5.4999999 5.4999999 0 0 0 7.5 2 z M 12 2 L 12 3 L 13 3 L 13 2 L 12 2 z M 0 7 L 0 8 L 1 8 L 1 7 L 0 7 z M 14 7 L 14 8 L 15 8 L 15 7 L 14 7 z M 2 12 L 2 13 L 3 13 L 3 12 L 2 12 z M 12 12 L 12 13 L 13 13 L 13 12 L 12 12 z M 7 14 L 7 15 L 8 15 L 8 14 L 7 14 z "
+     transform="scale(0.26458333)" />
+  <circle
+     style="fill:#ffe082;fill-opacity:1;stroke-width:0.216477;stroke-linecap:round;stroke-linejoin:round"
+     id="path1558"
+     cx="1.984375"
+     cy="1.984375"
+     r="1.190625" />
+</svg>

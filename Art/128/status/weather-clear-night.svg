@@ -1,0 +1,81 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="128"
+   height="128"
+   viewBox="0 0 33.866666 33.866668"
+   version="1.1"
+   id="svg843"
+   inkscape:version="1.1.2 (0a00cf5339, 2022-02-04, custom)"
+   sodipodi:docname="weather-clear-night.svg"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview845"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:document-units="px"
+     showgrid="false"
+     units="px"
+     showguides="false"
+     inkscape:zoom="6.2421875"
+     inkscape:cx="64"
+     inkscape:cy="64"
+     inkscape:window-width="1920"
+     inkscape:window-height="1019"
+     inkscape:window-x="0"
+     inkscape:window-y="31"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="svg843" />
+  <defs
+     id="defs840" />
+  <circle
+     style="fill:#90a4ae;stroke-width:0.250151;stroke-linecap:round;stroke-linejoin:round;fill-opacity:1"
+     id="path926"
+     cx="16.933334"
+     cy="16.933334"
+     r="13.758333" />
+  <circle
+     style="fill:#eceff1;fill-opacity:1;stroke-width:2.35719;stroke-linecap:round;stroke-linejoin:round"
+     id="path1558"
+     cx="16.933334"
+     cy="16.933334"
+     r="12.964583" />
+  <circle
+     style="fill:#d1d9dd;fill-opacity:1;stroke-width:0.203525;stroke-linecap:round;stroke-linejoin:round"
+     id="path1308"
+     cx="12.170834"
+     cy="19.050001"
+     r="2.6458333" />
+  <circle
+     style="fill:#d1d9dd;fill-opacity:1;stroke-width:0.203525;stroke-linecap:round;stroke-linejoin:round"
+     id="path1308-3"
+     cx="21.695833"
+     cy="20.108334"
+     r="2.6458333" />
+  <circle
+     style="fill:#d1d9dd;fill-opacity:1;stroke-width:0.122115;stroke-linecap:round;stroke-linejoin:round"
+     id="path1308-6"
+     cx="10.583333"
+     cy="11.112499"
+     r="1.5875" />
+  <circle
+     style="fill:#d1d9dd;fill-opacity:1;stroke-width:0.122115;stroke-linecap:round;stroke-linejoin:round"
+     id="path1308-6-7"
+     cx="15.345834"
+     cy="24.870834"
+     r="1.5875" />
+  <circle
+     style="fill:#d1d9dd;fill-opacity:1;stroke-width:0.0610575;stroke-linecap:round;stroke-linejoin:round"
+     id="path1308-6-7-5"
+     cx="18.785416"
+     cy="9.260417"
+     r="0.79374999" />
+</svg>
