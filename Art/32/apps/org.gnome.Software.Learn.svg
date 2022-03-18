@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="32"
+   height="32"
+   viewBox="0 0 8.4666665 8.466667"
+   version="1.1"
+   id="svg5"
+   inkscape:version="1.1.2 (0a00cf5339, 2022-02-04, custom)"
+   sodipodi:docname="org.gnome.Software.Learn.svg"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview7"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:document-units="px"
+     showgrid="false"
+     units="px"
+     height="64px"
+     inkscape:zoom="13.443586"
+     inkscape:cx="2.3431248"
+     inkscape:cy="16.476258"
+     inkscape:window-width="1920"
+     inkscape:window-height="1019"
+     inkscape:window-x="0"
+     inkscape:window-y="31"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="svg5"
+     showguides="false" />
+  <defs
+     id="defs2" />
+  <path
+     id="rect967"
+     style="opacity:0.9;fill:#1d793d;fill-opacity:1;stroke-width:2;stroke-linecap:round;stroke-linejoin:round"
+     d="M 5,2 C 3.338,2 2,3.338 2,5 v 22 c 0,1.662 1.338,3 3,3 h 22 c 1.662,0 3,-1.338 3,-3 V 5 C 30,3.338 28.662,2 27,2 Z"
+     sodipodi:nodetypes="sssssssss"
+     transform="scale(0.26458334)" />
+  <path
+     id="rect1071"
+     style="fill:#34b05c;fill-opacity:1;stroke-width:2;stroke-linecap:round;stroke-linejoin:round"
+     d="M 5 3 C 3.8919998 3 3 3.8919998 3 5 L 3 27 C 3 28.108 3.8919998 29 5 29 L 27 29 C 28.107999 29 29 28.108 29 27 L 29 5 C 29 3.8919998 28.107999 3 27 3 L 5 3 z "
+     transform="scale(0.26458334)" />
+  <path
+     d="M 4.233598,2.1166667 1.3229167,3.2805688 4.233598,4.4458468 6.4163312,3.5727482 V 4.0835528 C 6.2505803,4.1557658 6.1434082,4.319368 6.1434135,4.5001657 6.1435008,4.6863054 6.257097,4.8535697 6.4300895,4.922282 L 6.1887869,5.7548199 H 7.0618855 L 6.8137063,4.8996072 C 6.9607802,4.8205365 7.0526436,4.6671734 7.0529478,4.5001922 7.0529531,4.3193945 6.945781,4.155792 6.7800301,4.0835793 V 3.4270422 L 7.1436999,3.2812991 4.2335478,2.117397 Z M 2.7782309,4.2993999 v 1.5275719 c 0,0.3618362 0.6515894,0.6551613 1.4553671,0.6551613 0.8035079,-1.72e-4 1.4546792,-0.2934468 1.4546792,-0.6551613 V 4.2993999 L 4.233598,4.9146884 Z"
+     style="fill:#ffffff;stroke-width:1.00002"
+     id="path856" />
+  <path
+     id="rect1269"
+     style="opacity:0.1;fill:#ffffff;fill-opacity:1;stroke-width:0.999999;stroke-linecap:round;stroke-linejoin:round"
+     d="M 5 3 L 5 6 L 3 6 L 3 7 L 5 7 L 5 10 L 3 10 L 3 11 L 5 11 L 5 14 L 3 14 L 3 15 L 5 15 L 5 18 L 3 18 L 3 19 L 5 19 L 5 22 L 3 22 L 3 23 L 5 23 L 5 26 L 3 26 L 3 27 L 5 27 L 5 29 L 6 29 L 6 27 L 9 27 L 9 29 L 10 29 L 10 27 L 13 27 L 13 29 L 14 29 L 14 27 L 17 27 L 17 29 L 18 29 L 18 27 L 21 27 L 21 29 L 22 29 L 22 27 L 25 27 L 25 29 L 26 29 L 26 27 L 29 27 L 29 26 L 26 26 L 26 23 L 29 23 L 29 22 L 26 22 L 26 19 L 29 19 L 29 18 L 26 18 L 26 15 L 29 15 L 29 14 L 26 14 L 26 11 L 29 11 L 29 10 L 26 10 L 26 7 L 29 7 L 29 6 L 26 6 L 26 3 L 25 3 L 25 6 L 22 6 L 22 3 L 21 3 L 21 6 L 18 6 L 18 3 L 17 3 L 17 6 L 14 6 L 14 3 L 13 3 L 13 6 L 10 6 L 10 3 L 9 3 L 9 6 L 6 6 L 6 3 L 5 3 z M 6 7 L 9 7 L 9 10 L 6 10 L 6 7 z M 10 7 L 13 7 L 13 10 L 10 10 L 10 7 z M 14 7 L 17 7 L 17 10 L 14 10 L 14 7 z M 18 7 L 21 7 L 21 10 L 18 10 L 18 7 z M 22 7 L 25 7 L 25 10 L 22 10 L 22 7 z M 6 11 L 9 11 L 9 14 L 6 14 L 6 11 z M 10 11 L 13 11 L 13 14 L 10 14 L 10 11 z M 14 11 L 17 11 L 17 14 L 14 14 L 14 11 z M 18 11 L 21 11 L 21 14 L 18 14 L 18 11 z M 22 11 L 25 11 L 25 14 L 22 14 L 22 11 z M 6 15 L 9 15 L 9 18 L 6 18 L 6 15 z M 10 15 L 13 15 L 13 18 L 10 18 L 10 15 z M 14 15 L 17 15 L 17 18 L 14 18 L 14 15 z M 18 15 L 21 15 L 21 18 L 18 18 L 18 15 z M 22 15 L 25 15 L 25 18 L 22 18 L 22 15 z M 6 19 L 9 19 L 9 22 L 6 22 L 6 19 z M 10 19 L 13 19 L 13 22 L 10 22 L 10 19 z M 14 19 L 17 19 L 17 22 L 14 22 L 14 19 z M 18 19 L 21 19 L 21 22 L 18 22 L 18 19 z M 22 19 L 25 19 L 25 22 L 22 22 L 22 19 z M 6 23 L 9 23 L 9 26 L 6 26 L 6 23 z M 10 23 L 13 23 L 13 26 L 10 26 L 10 23 z M 14 23 L 17 23 L 17 26 L 14 26 L 14 23 z M 18 23 L 21 23 L 21 26 L 18 26 L 18 23 z M 22 23 L 25 23 L 25 26 L 22 26 L 22 23 z "
+     transform="scale(0.26458334)" />
+</svg>
