@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="64"
+   height="64"
+   viewBox="0 0 16.933333 16.933334"
+   version="1.1"
+   id="svg5"
+   inkscape:version="1.1.2 (0a00cf5339, 2022-02-04, custom)"
+   sodipodi:docname="obs.svg"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview7"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:document-units="px"
+     showgrid="false"
+     units="px"
+     height="64px"
+     inkscape:zoom="12.59375"
+     inkscape:cx="32"
+     inkscape:cy="32"
+     inkscape:window-width="1851"
+     inkscape:window-height="1009"
+     inkscape:window-x="69"
+     inkscape:window-y="31"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="svg5" />
+  <defs
+     id="defs2" />
+  <circle
+     style="opacity:0.2;fill:#000000;fill-opacity:1;stroke-width:0.530819;stroke-linejoin:round"
+     id="path24384"
+     cx="8.4666672"
+     cy="8.4666672"
+     r="7.4083333" />
+  <circle
+     style="opacity:1;fill:#f2f2f2;stroke-width:0.255133;stroke-linecap:round;stroke-linejoin:round"
+     id="path1328"
+     cx="8.4666672"
+     cy="8.4666672"
+     r="7.1437502" />
+  <circle
+     style="opacity:1;fill:#1a1a1a;stroke-width:0.28759;stroke-linecap:round;stroke-linejoin:round"
+     id="path1054"
+     cx="8.4666672"
+     cy="8.4666672"
+     r="6.6145835" />
+  <path
+     d="M 7.2408299,4.0219866 C 6.3641344,4.4846286 5.6304932,5.3497344 5.609394,6.379494 5.5925877,6.9139428 5.7041223,7.4774508 5.9653901,7.9379327 6.8821139,7.9535171 7.8260169,8.4769713 8.1475041,9.3686764 8.6183953,10.54733 8.0640814,12.111868 6.8249563,12.546051 6.1893612,12.774932 5.4826091,12.672866 4.8683334,12.426266 5.7080603,12.954915 6.8261561,13.157207 7.7285208,12.658507 8.200942,12.408237 8.6168253,12.029632 8.9000743,11.581049 8.4542426,10.777381 8.4365126,9.6993233 9.0473583,8.9735519 9.8302477,7.9755411 11.461362,7.6681032 12.458223,8.5234395 c 0.51612,0.4354428 0.780749,1.098557 0.874255,1.7534315 C 13.370067,9.2861897 12.987792,8.2178516 12.107127,7.6852726 11.654264,7.3965039 11.119505,7.2382101 10.588686,7.2015415 10.115345,7.9896207 9.190643,8.5445887 8.25658,8.3791953 7.0015294,8.2019623 5.9182721,6.9451518 6.1606624,5.6547024 6.2792278,4.9897687 6.7220103,4.4293508 7.24182,4.0216667 Z"
+     style="fill:#f9f9f9;fill-rule:evenodd;stroke-width:0.264584"
+     id="path892" />
+</svg>
