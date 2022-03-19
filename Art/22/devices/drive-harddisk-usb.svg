@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="22"
+   height="22"
+   viewBox="0 0 5.8208333 5.8208336"
+   version="1.1"
+   id="svg5"
+   inkscape:version="1.1.2 (0a00cf5339, 2022-02-04, custom)"
+   sodipodi:docname="drive-harddisk-usb.svg"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview7"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:document-units="px"
+     showgrid="false"
+     units="px"
+     height="64px"
+     inkscape:zoom="11.873501"
+     inkscape:cx="10.148649"
+     inkscape:cy="21.644837"
+     inkscape:window-width="1851"
+     inkscape:window-height="1009"
+     inkscape:window-x="69"
+     inkscape:window-y="31"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="svg5"
+     showguides="false" />
+  <defs
+     id="defs2" />
+  <path
+     id="rect3650"
+     style="opacity:0.25;fill:#000000;stroke-width:0.264583;stroke-linejoin:round"
+     d="M 0.79375006,0 H 5.0270836 C 5.1736628,0 5.291667,0.11800417 5.291667,0.26458335 V 5.55625 c 0,0.1465791 -0.1180042,0.2645833 -0.2645834,0.2645833 H 0.79375006 c -0.14657918,0 -0.26458338,-0.1180042 -0.26458338,-0.2645833 V 0.26458335 C 0.52916668,0.11800417 0.64717088,0 0.79375006,0 Z"
+     sodipodi:nodetypes="sssssssss" />
+  <path
+     id="rect3862"
+     style="opacity:1;fill:#e1e3e7;fill-opacity:1;stroke-width:0.264583;stroke-linejoin:round"
+     d="M 0.79375006,0.26458335 H 5.0270834 V 5.55625 H 0.79375006 Z"
+     sodipodi:nodetypes="ccccc" />
+  <path
+     id="path3364"
+     style="opacity:1;fill:#cbcdd1;fill-opacity:1;stroke-width:0.635;stroke-linecap:round;stroke-linejoin:round"
+     d="M 3.3403647,0.52916668 1.719789,2.6458329 l 0.00672,0.00103 C 1.4756217,2.9276158 1.3229168,3.2980213 1.3229167,3.7041668 c 1e-7,0.8767519 0.710748,1.5875 1.5875001,1.5875 0.8713303,-2.524e-4 1.5796088,-0.7027651 1.5869833,-1.5740642 1.913e-4,-0.00448 3.635e-4,-0.00896 5.167e-4,-0.013436 V 0.79375006 c 0,-0.14657924 -0.1180041,-0.26458338 -0.2645833,-0.26458338 z"
+     sodipodi:nodetypes="cccscccscc" />
+  <path
+     id="path4190"
+     style="opacity:1;fill:#edeff3;fill-opacity:1;stroke-width:0.529167;stroke-linecap:round;stroke-linejoin:round"
+     d="M 3.4395835,0.79375006 1.9843751,2.7517702 v 0 c -0.2073045,0.2695721 -0.3962396,0.5922675 -0.396875,0.9523966 0,0.7306268 0.59229,1.3229167 1.3229167,1.3229167 0.7306268,0 1.3229167,-0.5922899 1.3229167,-1.3229167 V 0.79375006 Z"
+     sodipodi:nodetypes="ccccsscc" />
+  <circle
+     style="opacity:1;fill:#cbcdd1;fill-opacity:1;stroke-width:0.529167;stroke-linecap:round;stroke-linejoin:round"
+     id="path6058"
+     cx="2.9104168"
+     cy="3.7041669"
+     r="0.79375005" />
+  <circle
+     style="opacity:1;fill:#e1e3e7;fill-opacity:1;stroke-width:1.14294;stroke-linecap:round;stroke-linejoin:round"
+     id="path6296"
+     cx="2.9104168"
+     cy="3.7041667"
+     r="0.5291667" />
+  <path
+     id="rect13968"
+     style="opacity:1;fill:#313643;stroke-width:0.529167;stroke-linecap:round;stroke-linejoin:round"
+     d="m 1.5875001,0.79375006 h 1.5875001 c 0.1465792,0 0.2645834,0.1180042 0.2645834,0.26458334 v 0.7937501 c 0,0.1465792 -0.1180042,0.2645833 -0.2645834,0.2645833 H 1.5875001 c -0.1465791,0 -0.2645833,-0.1180041 -0.2645833,-0.2645833 V 1.0583334 c 0,-0.14657914 0.1180042,-0.26458334 0.2645833,-0.26458334 z"
+     sodipodi:nodetypes="sssssssss" />
+  <path
+     id="rect14243"
+     style="opacity:1;fill:#4c5263;stroke-width:0.529167;stroke-linecap:round;stroke-linejoin:round"
+     d="M 1.5875,1.0583334 H 3.1750001 V 1.8520835 H 1.5875 Z"
+     sodipodi:nodetypes="ccccc" />
+  <path
+     id="rect14668"
+     style="opacity:1;fill:#e9eaee;stroke-width:0.529167;stroke-linecap:round;stroke-linejoin:round"
+     d="M 1.5875,1.0583334 V 1.3229167 H 2.9104167 V 1.0583334 Z m 0,0.5291667 V 1.8520834 H 2.3812501 V 1.5875001 Z"
+     sodipodi:nodetypes="cccccccccc" />
+</svg>

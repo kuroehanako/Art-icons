@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="24"
+   height="24"
+   viewBox="0 0 6.35 6.3500003"
+   version="1.1"
+   id="svg5"
+   inkscape:version="1.1.2 (0a00cf5339, 2022-02-04, custom)"
+   sodipodi:docname="x-office-calendar.svg"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview7"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:document-units="px"
+     showgrid="false"
+     units="px"
+     height="64px"
+     inkscape:zoom="33.583333"
+     inkscape:cx="11.985112"
+     inkscape:cy="12"
+     inkscape:window-width="1851"
+     inkscape:window-height="1009"
+     inkscape:window-x="69"
+     inkscape:window-y="31"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="svg5"
+     showguides="true" />
+  <defs
+     id="defs2" />
+  <path
+     id="rect937"
+     style="fill:#4f6698;fill-opacity:1;stroke-width:0.264583;stroke-linecap:round;stroke-linejoin:round;opacity:0.25"
+     d="M 0.79375002,0.26458335 H 5.5562503 c 0.2931583,0 0.5291667,0.23600835 0.5291667,0.5291667 V 5.5562503 c 0,0.2931584 -0.2360084,0.5291667 -0.5291667,0.5291667 H 0.79375002 c -0.2931584,0 -0.52916668,-0.2360083 -0.52916668,-0.5291667 V 0.79375005 c 0,-0.29315835 0.23600828,-0.5291667 0.52916668,-0.5291667 z"
+     sodipodi:nodetypes="sssssssss" />
+  <path
+     id="rect1273"
+     style="fill:#fafafa;fill-opacity:1;stroke-width:0.264583;stroke-linecap:round;stroke-linejoin:round"
+     d="M 0.79375002,0.5291667 H 5.55625 c 0.1465792,0 0.2645834,0.11800417 0.2645834,0.26458335 V 5.5562503 c 0,0.1465792 -0.1180042,0.2645834 -0.2645834,0.2645834 H 0.79375002 c -0.1465792,0 -0.2645834,-0.1180042 -0.2645834,-0.2645834 V 0.79375005 c 0,-0.14657918 0.1180042,-0.26458335 0.2645834,-0.26458335 z"
+     sodipodi:nodetypes="sssssssss" />
+  <path
+     id="rect2444"
+     style="opacity:0.55;fill:#9d0b0d;fill-opacity:1;stroke-width:0.27819;stroke-linecap:round;stroke-linejoin:round"
+     d="M 0.79375008,0.26458334 H 5.5562504 c 0.2931583,0 0.5291667,0.2360084 0.5291667,0.5291668 V 1.8520834 H 0.26458334 V 0.79375014 c 0,-0.2931584 0.23600835,-0.5291668 0.52916674,-0.5291668 z"
+     sodipodi:nodetypes="sssccss" />
+  <path
+     id="rect2864"
+     style="fill:#f46062;fill-opacity:1;stroke-width:0.264583;stroke-linecap:round;stroke-linejoin:round"
+     d="m 0.79374998,0.52916674 c -0.1465792,0 -0.26458334,0.1180041 -0.26458334,0.2645833 V 1.5875 H 5.8208335 V 0.79375004 c 0,-0.1465792 -0.1180042,-0.2645833 -0.2645834,-0.2645833 z" />
+  <path
+     id="rect1204"
+     style="opacity:0.5;fill:#b4bfd8;fill-opacity:1;stroke:none;stroke-width:0.264583;stroke-linecap:round;stroke-linejoin:round"
+     d="M 0.79375002,2.1166667 V 5.5562501 H 5.2916668 V 2.1166667 Z M 1.0583334,2.38125 h 0.79375 v 0.7937501 h -0.79375 z m 1.0583333,0 h 0.79375 v 0.7937501 h -0.79375 z m 1.0583334,0 h 0.79375 v 0.7937501 h -0.79375 z m 1.0583333,0 H 5.0270835 V 3.1750001 H 4.2333334 Z m -3.175,1.0583334 h 0.79375 v 0.79375 h -0.79375 z m 1.0583333,0 h 0.79375 v 0.79375 h -0.79375 z m 1.0583334,0 h 0.79375 v 0.79375 h -0.79375 z m 1.0583333,0 h 0.7937501 v 0.79375 H 4.2333334 Z m -3.175,1.0583334 h 0.79375 v 0.79375 h -0.79375 z m 1.0583333,0 h 0.79375 v 0.79375 h -0.79375 z m 1.0583334,0 h 0.79375 v 0.79375 h -0.79375 z m 1.0583333,0 h 0.7937501 v 0.79375 H 4.2333334 Z"
+     sodipodi:nodetypes="ccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccc" />
+  <path
+     id="path2121"
+     style="opacity:0.2;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.999999;stroke-linecap:round;stroke-linejoin:round"
+     d="M 4 3 A 1 1 0 0 0 3 4 A 1 1 0 0 0 4 5 A 1 1 0 0 0 5 4 A 1 1 0 0 0 4 3 z M 20 3 A 1 1 0 0 0 19 4 A 1 1 0 0 0 20 5 A 1 1 0 0 0 21 4 A 1 1 0 0 0 20 3 z "
+     transform="scale(0.26458334)" />
+</svg>

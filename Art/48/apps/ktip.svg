@@ -8,7 +8,7 @@
    version="1.1"
    id="svg5"
    inkscape:version="1.1.2 (0a00cf5339, 2022-02-04, custom)"
-   sodipodi:docname="dialog-information.svg"
+   sodipodi:docname="ktip.svg"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns="http://www.w3.org/2000/svg"
@@ -27,21 +27,21 @@
      height="64px"
      inkscape:zoom="16.729167"
      inkscape:cx="24"
-     inkscape:cy="24"
-     inkscape:window-width="1920"
-     inkscape:window-height="1021"
-     inkscape:window-x="0"
-     inkscape:window-y="0"
+     inkscape:cy="24.029887"
+     inkscape:window-width="1851"
+     inkscape:window-height="1009"
+     inkscape:window-x="69"
+     inkscape:window-y="31"
      inkscape:window-maximized="1"
      inkscape:current-layer="svg5" />
   <defs
      id="defs2" />
   <path
-     style="color:#000000;fill:#71a5e8;stroke:none;stroke-width:0.264583;stroke-linejoin:round;-inkscape-stroke:none;fill-opacity:1"
+     style="color:#000000;fill:#52a6f5;stroke:none;stroke-width:0.264583;stroke-linejoin:round;-inkscape-stroke:none;fill-opacity:1"
      d="M 11.773958,6.3500006 A 5.4239587,5.4239588 0 0 1 6.3500004,11.773958 5.4239587,5.4239588 0 0 1 0.92604168,6.3500006 5.4239587,5.4239588 0 0 1 6.3500004,0.92604168 5.4239587,5.4239588 0 0 1 11.773958,6.3500006 Z"
      id="path1283" />
   <path
-     style="color:#000000;opacity:0.3;fill:#002e99;stroke:none;stroke-width:0.99993;stroke-linejoin:round;-inkscape-stroke:none;fill-opacity:1"
+     style="color:#000000;opacity:0.35;fill:#002e99;stroke:none;stroke-width:0.99993;stroke-linejoin:round;-inkscape-stroke:none;fill-opacity:1"
      d="M 6.3500001,0.79375001 C 3.2831533,0.79375 0.79374994,3.2831532 0.79375001,6.3500001 0.7937508,9.4168463 3.2831539,11.90625 6.3500001,11.90625 c 3.0668457,-10e-7 5.5562489,-2.4894041 5.5562499,-5.5562499 0,-3.0668464 -2.4894036,-5.55624947 -5.5562499,-5.55625009 z m 0,0.26560629 c 2.9238651,6e-7 5.2925959,2.3667787 5.2925959,5.2906438 -10e-7,2.9238646 -2.3687314,5.2925959 -5.2925959,5.2925959 -2.9238649,0 -5.290643,-2.3687309 -5.2906438,-5.2925959 0,-2.9238656 2.3667783,-5.2906438 5.2906438,-5.2906438 z"
      id="path1285" />
   <path
