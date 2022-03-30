@@ -8,7 +8,7 @@
    version="1.1"
    id="svg5"
    inkscape:version="1.1.2 (0a00cf5339, 2022-02-04, custom)"
-   sodipodi:docname="folder].svg"
+   sodipodi:docname="folder-default-download.svg"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns:xlink="http://www.w3.org/1999/xlink"
@@ -26,9 +26,9 @@
      showgrid="false"
      units="px"
      height="64px"
-     inkscape:zoom="1"
-     inkscape:cx="31.5"
-     inkscape:cy="32.5"
+     inkscape:zoom="12.546875"
+     inkscape:cx="32"
+     inkscape:cy="40.926526"
      inkscape:window-width="1920"
      inkscape:window-height="1021"
      inkscape:window-x="0"
@@ -74,12 +74,12 @@
      style="opacity:0.3;fill:#000000;fill-opacity:1;stroke-width:0.529167;stroke-linejoin:round"
      d="m 3.7041667,2.9104168 h 3.1749999 c 0.1465792,0 0.2645834,0.1180042 0.2645834,0.2645834 0,0.1465792 -0.1180042,0.2645833 -0.2645834,0.2645833 H 3.7041667 c -0.1465792,0 -0.2645834,-0.1180041 -0.2645834,-0.2645833 0,-0.1465792 0.1180042,-0.2645834 0.2645834,-0.2645834 z" />
   <path
-     style="color:#000000;opacity:0.55;fill:#340077;fill-opacity:1;stroke:none;stroke-linejoin:round;-inkscape-stroke:none"
+     style="color:#000000;opacity:0.55;fill:#360079;fill-opacity:1;stroke:none;stroke-linejoin:round;-inkscape-stroke:none"
      d="M 8.4657553,3.96875 C 8.2301056,3.9704142 8.0194607,4.0910048 7.914974,4.2363281 7.8104873,4.3816515 7.7713793,4.5153654 7.7059896,4.6367187 c -0.00135,0.00258 -0.00265,0.00519 -0.00391,0.00781 L 7.5106771,5.0273437 H 0.79388021 c -0.006508,-2.404e-4 -0.0130231,-2.404e-4 -0.0195313,0 -0.26296665,0.020228 -0.50976557,0.2401959 -0.50976557,0.5292969 v 8.9960934 c 0,0.288582 0.24071437,0.529297 0.52929687,0.529297 H 16.139583 c 0.288582,0 0.529297,-0.240715 0.529297,-0.529297 V 4.4980469 C 16.66888,4.2094656 16.428164,3.96875 16.139583,3.96875 H 8.4677084 c -6.5e-4,-2.4e-6 -0.0013,-2.4e-6 -0.00195,0 z"
      id="path1470"
      sodipodi:nodetypes="sscccccssssssscss" />
   <path
-     style="color:#000000;fill:#a86bda;fill-opacity:1;stroke:none;stroke-width:0.529167;stroke-linejoin:round;-inkscape-stroke:none"
+     style="color:#000000;fill:#a46be9;fill-opacity:1;stroke:none;stroke-width:0.529167;stroke-linejoin:round;-inkscape-stroke:none"
      d="M 0.79375005,5.2916669 H 7.6729167 L 7.9375001,4.7625 C 8.0921218,4.4755455 8.1157904,4.2358116 8.4666667,4.2333336 h 7.6729163 c 0.14658,0 0.264584,0.1180042 0.264584,0.2645833 V 14.552083 c 0,0.146579 -0.118004,0.264584 -0.264584,0.264584 H 0.79375005 c -0.14657918,0 -0.26458335,-0.118005 -0.26458335,-0.264584 V 5.5562502 c 0,-0.1465791 0.11843592,-0.2533411 0.26458335,-0.2645833 z"
      id="path1468" />
   <path

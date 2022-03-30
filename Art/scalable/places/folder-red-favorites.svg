@@ -8,7 +8,7 @@
    version="1.1"
    id="svg5"
    inkscape:version="1.1.2 (0a00cf5339, 2022-02-04, custom)"
-   sodipodi:docname="folder-red-favorites.svg"
+   sodipodi:docname="folder-default-favorites.svg"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns:xlink="http://www.w3.org/1999/xlink"
@@ -26,9 +26,9 @@
      showgrid="false"
      units="px"
      height="64px"
-     inkscape:zoom="8"
-     inkscape:cx="30.25"
-     inkscape:cy="30.75"
+     inkscape:zoom="1"
+     inkscape:cx="31"
+     inkscape:cy="32"
      inkscape:window-width="1920"
      inkscape:window-height="1019"
      inkscape:window-x="0"
@@ -79,7 +79,7 @@
      id="path1470"
      sodipodi:nodetypes="sscccccssssssscss" />
   <path
-     style="color:#000000;fill:#c05151;fill-opacity:1;stroke:none;stroke-width:0.529167;stroke-linejoin:round;-inkscape-stroke:none"
+     style="color:#000000;fill:#c05454;fill-opacity:1;stroke:none;stroke-width:0.529167;stroke-linejoin:round;-inkscape-stroke:none"
      d="M 0.79375005,5.2916669 H 7.6729167 L 7.9375001,4.7625 C 8.0921218,4.4755455 8.1157904,4.2358116 8.4666667,4.2333336 h 7.6729163 c 0.14658,0 0.264584,0.1180042 0.264584,0.2645833 V 14.552083 c 0,0.146579 -0.118004,0.264584 -0.264584,0.264584 H 0.79375005 c -0.14657918,0 -0.26458335,-0.118005 -0.26458335,-0.264584 V 5.5562502 c 0,-0.1465791 0.11843592,-0.2533411 0.26458335,-0.2645833 z"
      id="path1468" />
   <path
