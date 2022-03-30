@@ -1,0 +1,93 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="64"
+   height="64"
+   viewBox="0 0 16.933333 16.933334"
+   version="1.1"
+   id="svg5"
+   inkscape:version="1.1.2 (0a00cf5339, 2022-02-04)"
+   sodipodi:docname="yast-sound.svg"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview7"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:document-units="px"
+     showgrid="false"
+     units="px"
+     height="64px"
+     showguides="true"
+     inkscape:zoom="15.90625"
+     inkscape:cx="32"
+     inkscape:cy="23.418468"
+     inkscape:window-width="1920"
+     inkscape:window-height="1022"
+     inkscape:window-x="0"
+     inkscape:window-y="0"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="svg5" />
+  <defs
+     id="defs2" />
+  <path
+     id="rect873"
+     style="opacity:0.7;fill:#1a1a1a;stroke-width:0.529167;stroke-linejoin:round"
+     d="M 4.2333333,1.0583333 H 12.7 c 1.172633,0 2.116666,0.9440334 2.116666,2.1166666 V 13.758334 C 14.816666,14.930967 13.872633,15.875 12.7,15.875 H 4.2333333 C 3.0607,15.875 2.1166667,14.930967 2.1166667,13.758334 V 3.1749999 c 0,-1.1726332 0.9440333,-2.1166666 2.1166666,-2.1166666 z" />
+  <rect
+     style="opacity:1;fill:#808080;stroke-width:0.529167;stroke-linejoin:round;fill-opacity:1"
+     id="rect1137"
+     width="12.170834"
+     height="14.2875"
+     x="2.3812499"
+     y="1.3229166"
+     ry="1.8520833" />
+  <circle
+     style="opacity:1;fill:#243843;fill-opacity:1;stroke-width:0.499769;stroke-linejoin:round"
+     id="path1707"
+     cx="8.4666672"
+     cy="8.4666672"
+     r="4.4979167" />
+  <circle
+     style="opacity:1;fill:#334d5c;fill-opacity:1;stroke-width:0.49804;stroke-linejoin:round"
+     id="path1493"
+     cx="8.4666672"
+     cy="8.4666672"
+     r="4.2333336" />
+  <path
+     id="path2153"
+     style="opacity:0.3;fill:#000000;fill-opacity:1;stroke-width:2;stroke-linejoin:round"
+     d="M 16 10 A 2.0000001 2.0000001 0 0 0 14 12 A 2.0000001 2.0000001 0 0 0 16 14 A 2.0000001 2.0000001 0 0 0 18 12 A 2.0000001 2.0000001 0 0 0 16 10 z M 48 10 A 2.0000001 2.0000001 0 0 0 46 12 A 2.0000001 2.0000001 0 0 0 48 14 A 2.0000001 2.0000001 0 0 0 50 12 A 2.0000001 2.0000001 0 0 0 48 10 z M 16 50 A 2.0000001 2.0000001 0 0 0 14 52 A 2.0000001 2.0000001 0 0 0 16 54 A 2.0000001 2.0000001 0 0 0 18 52 A 2.0000001 2.0000001 0 0 0 16 50 z M 48 50 A 2.0000001 2.0000001 0 0 0 46 52 A 2.0000001 2.0000001 0 0 0 48 54 A 2.0000001 2.0000001 0 0 0 50 52 A 2.0000001 2.0000001 0 0 0 48 50 z "
+     transform="scale(0.26458334)" />
+  <circle
+     style="opacity:0.4;fill:#000000;fill-opacity:1;stroke-width:0.488462;stroke-linejoin:round"
+     id="path2406"
+     cx="8.4666662"
+     cy="8.4666662"
+     r="3.175" />
+  <circle
+     style="opacity:1;fill:#efc84a;fill-opacity:1;stroke-width:0.582084;stroke-linejoin:round"
+     id="path2860"
+     cx="8.4666672"
+     cy="8.4666672"
+     r="2.9104166" />
+  <circle
+     style="opacity:1;fill:#1f2e37;fill-opacity:1;stroke-width:0.697729;stroke-linejoin:round"
+     id="path3206"
+     cx="8.4666672"
+     cy="8.4666672"
+     r="1.5875" />
+  <circle
+     style="opacity:1;fill:#1a1a1a;fill-opacity:1;stroke-width:0.529167;stroke-linejoin:round"
+     id="path7405"
+     cx="8.4666662"
+     cy="8.4666662"
+     r="1.3229166" />
+</svg>

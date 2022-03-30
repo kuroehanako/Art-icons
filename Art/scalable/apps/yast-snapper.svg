@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="64"
+   height="64"
+   viewBox="0 0 16.933333 16.933334"
+   version="1.1"
+   id="svg5"
+   inkscape:version="1.1.2 (0a00cf5339, 2022-02-04)"
+   sodipodi:docname="yast-snapper.svg"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview7"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:document-units="px"
+     showgrid="false"
+     units="px"
+     height="64px"
+     inkscape:zoom="9.7468874"
+     inkscape:cx="17.749256"
+     inkscape:cy="35.036826"
+     inkscape:window-width="1920"
+     inkscape:window-height="1011"
+     inkscape:window-x="0"
+     inkscape:window-y="0"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="svg5"
+     showguides="false" />
+  <defs
+     id="defs2" />
+  <circle
+     style="opacity:0.8;fill:#1878a4;fill-opacity:1;stroke-width:0.548766;stroke-linecap:round;stroke-linejoin:round"
+     id="path1150"
+     cx="8.4666672"
+     cy="8.4666672"
+     r="7.4083333" />
+  <circle
+     style="opacity:1;fill:#38ade2;fill-opacity:1;stroke-width:0.502554;stroke-linejoin:round"
+     id="path24384"
+     cx="8.4666672"
+     cy="8.4666672"
+     r="7.1437502" />
+  <path
+     id="path925"
+     style="fill:#ffffff;stroke-width:0.999999"
+     d="M 32 12 A 19.999999 19.999999 0 0 0 13 25.863281 L 13 19 L 11 19 L 11 27 L 11 29 L 12.236328 29 L 13 29 L 21 29 L 21 27 L 14.767578 27 A 17.999999 17.999999 0 0 1 32 14 A 17.999999 17.999999 0 0 1 48.869141 25.820312 L 50.628906 24.867188 A 19.999999 19.999999 0 0 0 32 12 z M 43 35 L 43 37 L 49.244141 37 A 17.999999 17.999999 0 0 1 32 50 A 17.999999 17.999999 0 0 1 15.140625 38.175781 L 13.378906 39.130859 A 19.999999 19.999999 0 0 0 32 52 A 19.999999 19.999999 0 0 0 51 38.158203 L 51 45 L 53 45 L 53 37 L 53 35 L 51.771484 35 L 51.763672 35 L 43 35 z "
+     transform="scale(0.26458334)" />
+</svg>
